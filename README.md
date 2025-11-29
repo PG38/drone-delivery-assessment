@@ -41,7 +41,7 @@ A full-stack Drone Delivery application built with **Node.js**, **Express**, **S
 - Node.js (v18+ recommended)
 - npm
 
-### 1. Backend Setup
+### 1. Server Setup (Backend)
 ```bash
 cd backend
 npm install
@@ -50,7 +50,7 @@ node server.js
 The server will start on `http://localhost:3000`.
 *Note: The database `drone_delivery.db` will be automatically created on the first run.*
 
-### 2. Frontend Setup
+### 2. Web Dashboard Setup (Frontend)
 ```bash
 cd frontend
 npm install
